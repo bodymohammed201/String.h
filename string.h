@@ -13,7 +13,7 @@ int my_strcmp(const char *str1, const char *str2);
 int my_strncmp(const char *str1, const char *str2, size_t n);
 size_t my_strcspn(const char *str1, const char *str2);
 size_t my_strcspn2(const char *str1, const char *str2);
-
+// abdooooooooooooooooooooo
 /*--------------------------------------------------------
 ---------------------------------------------------------*/
 void *my_memchr(const void *s, int c, unsigned n)
